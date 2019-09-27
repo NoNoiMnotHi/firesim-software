@@ -7,6 +7,6 @@
 [submodule "br/buildroot"]
 	path = wlutil/br/buildroot
 	url = https://github.com/sifive/buildroot.git
-[submodule "nvdla"]
-	path = nvdla
-	url = https://github.com/nvdla/sw.git
+[submodule "nvdla/sw"]
+	path = nvdla/sw
+	url = https://github.com/nvdla/sw
