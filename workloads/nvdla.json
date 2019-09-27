@@ -1,5 +1,5 @@
 {
-  "name" : "darknet-nvdla",
+  "name" : "nvdla",
   "base" : "br-base.json",
   "overlay" : "overlay"
 }
